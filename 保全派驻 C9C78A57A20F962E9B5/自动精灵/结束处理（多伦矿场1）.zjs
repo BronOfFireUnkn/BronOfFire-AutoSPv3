@@ -1,0 +1,3 @@
+{"repeatCount":-1,"pauseOnFail":false,"count":2,"minVerCode":56,"minVerName":"2.10.0","screenWidth":1920,"screenHeight":1080,"screenDpi":2,"lastSaveScreenWidth":1920,"lastSaveScreenHeight":1080,"lastSaveScreenDpi":2,"savedVerCode":2024040,"savedVerName":"2.24.4","description":"","delay":"0","delayUnit":1}
+{"type":"点击","duration":"300","delay":"2","delayUnit":1,"condition":{"type":"textFount","repeatWhenFalse":true,"repeatWhenFalseLimitTimes":0,"repeatWhenFalseRepeatDelay":1000,"text":{"type":"text","text":"斗","limitArea":"1.6% 70.9% 25.3% 82.7%","ocrMode":"local"},"desc":""},"posData":{"type":"location","x":"13%","y":"73.4%"}}
+{"type":"执行脚本","delayUnit":1,"filePath":"后处理（多伦矿场1）.zjs"}
